@@ -128,7 +128,8 @@ button{
 }
 #message{
   color: black;
-  display:none;  
+  display:none; 
+  font-size: 10px;
 }
 .sign{
   color: black;
