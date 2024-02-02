@@ -10,6 +10,7 @@ header{
   background-image: url(Homepage_Merchandising.jpg);
   background-size: cover;
   background-position: center;
+  color: red;
 }.content{
  padding-top: 350px;
 }
