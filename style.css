@@ -19,7 +19,7 @@ img{
   padding: 10px 10%;
 }
 .content h2{
-  color: white;
+  color: aqua;
   height: 100px;
   width: 300px;
   padding: 10px 10%;
@@ -38,7 +38,7 @@ img{
   margin-top: 25px;
   cursor: pointer;
   font-family: Montserrat;
-  color: black;
+  color: green;
 }
 .btn button:hover{
   background-color: rgba(255, 255, 255, 0.019);
